@@ -1,0 +1,19 @@
+# タイトル: LINEの広告ブロックリスト
+# 最終更新: 2026-04-24
+# フォーマット: hosts
+# 参考: https://github.com/minimal-enginner/LINE-Ad-BlockList
+
+0.0.0.0 im.c.yimg.jp
+0.0.0.0 a.line.me
+0.0.0.0 obs.line-scdn.net
+0.0.0.0 gw.line.naver.jp
+0.0.0.0 ad.line-scdn.net
+0.0.0.0 scdn.line-apps.com
+0.0.0.0 linevoom.line.me
+0.0.0.0 voom-assets.line-scdn.net
+0.0.0.0 voom-obs.line-scdn.net
+0.0.0.0 ch-news.line-apps.com
+0.0.0.0 square-api.line.me
+0.0.0.0 crs-event.line.me
+0.0.0.0 crs-hometab-event.line.me
+0.0.0.0 ad.line-scdn.net
