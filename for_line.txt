@@ -1,5 +1,5 @@
 # タイトル: LINEの広告ブロックリスト
-# 最終更新: 2026-04-24
+# 最終更新: 2026-04-28
 # フォーマット: hosts
 # 参考: https://github.com/minimal-enginner/LINE-Ad-BlockList
 
